@@ -12,19 +12,19 @@
 *caries*: dental caries<br>
 *tartar*: tartar status<br>
 *smoking*: smoking status<br>
-*systolic:* Blood pressure
-*relaxation:* Blood pressure
-*fasting blood sugar*
-*Cholesterol:* total
-*triglyceride*
-*HDL:* cholesterol type
-*LDL:* cholesterol type
-*hemoglobin*
-*Urine protein*
-*serum creatinine*
-*AST:* glutamic oxaloacetic transaminase type
-*ALT:* glutamic oxaloacetic transaminase type
-*Gtp:* γ-GTP
+*systolic:* Blood pressure<br>
+*relaxation:* Blood pressure<br>
+*fasting blood sugar*<br>
+*Cholesterol:* total<br>
+*triglyceride*<br>
+*HDL:* cholesterol type<br>
+*LDL:* cholesterol type<br>
+*hemoglobin*<br>
+*Urine protein*<br>
+*serum creatinine*<br>
+*AST:* glutamic oxaloacetic transaminase type<br>
+*ALT:* glutamic oxaloacetic transaminase type<br>
+*Gtp:* γ-GTP<br>
 
 **Skills:** Data cleansing, data visualization, descriptive statistics, Machine Learning, Random Forest method, evaluation. <br>
 **Technology:** R programming language using tidyr, magrittr, data.table, tidyverse, and lubridate packages for data manipulation and ggroc package for visualization and evaluation.<br>
