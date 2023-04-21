@@ -1,7 +1,8 @@
 # Case 2: Random Forest Model: Prediction of smoking based on the body signals
 
-*code:* [Smoking-data](https://github.com/JavieraAlmendrasVilla/Case-1-Body-effects-of-smoking/blob/main/smoking.R)<br>
+*data:* [Smoking-data](https://github.com/JavieraAlmendrasVilla/Case-1-Body-effects-of-smoking/blob/main/smoking.R)<br>
 *source:* [Goverment of South Korea](https://www.kaggle.com/datasets/kukuroo3/body-signal-of-smoking)<br>
+*code:* [Random Forest Model](https://github.com/JavieraAlmendrasVilla/Case-2-Random-Forest-Model/blob/main/rf%20smoking.R)
 
 **Description:** The entire dataset contains health data with a total of 55692 observations and 27 variables. For this project, I specifically investigated the variables relevant to predct smoking.<br>
 
