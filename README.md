@@ -27,6 +27,6 @@
 *Gtp:* γ-GTP<br>
 
 **Skills:** Data cleansing, data visualization, descriptive statistics, Machine Learning, Random Forest Ensemble Method, method evaluation. <br>
-**Technology:** R programming language using tidyr, magrittr, data.table, tidyverse, and lubridate packages for data manipulation and ggroc package for visualization and evaluation.<br>
-**Results:** <br>
+**Technology:** R programming language using tidyr, magrittr, data.table, tidyverse, and lubridate packages for data manipulation, randomForest package to build the model, and ggroc package for visualization and evaluation.<br>
+**Results:** The model predicts smoking with ~ 71% accuracy in the training and testing data. <br>
 **Analysis:**<br>
