@@ -28,7 +28,7 @@
 
 **Skills:** Data cleansing, data visualization, descriptive statistics, Machine Learning, Random Forest Ensemble Method, method evaluation. <br>
 **Technology:** R programming language using tidyr, magrittr, data.table, tidyverse, and lubridate packages for data manipulation, randomForest package to build the model, and ggroc package for visualization and evaluation.<br>
-**Results:** The model predicts smoking with ~ 71% accuracy in the training and testing data. <br>
+**Results:** The model predicts smoking with ~ 75% accuracy in the training and testing data. <br>
 **Analysis:**<br>
 
 | gender | age | systolic | relaxation | fasting_blood_sugar | Cholesterol | triglyceride | HDL | LDL | hemoglobin | urine_protein | serum_creatinine | AST | ALT | Gtp | caries | tartar | Smoking |
